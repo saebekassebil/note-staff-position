@@ -1,0 +1,26 @@
+{
+  "name": "note-staff-position",
+  "version": "1.0.0",
+  "description": "Calculate the staff position of a note for a staff with a given clef",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saebekassebil/note-staff-position.git"
+  },
+  "keywords": [
+    "note",
+    "get",
+    "staff",
+    "position",
+    "teoria"
+  ],
+  "author": "Jakob Miland <saebekassebil@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saebekassebil/note-staff-position/issues"
+  },
+  "homepage": "https://github.com/saebekassebil/note-staff-position#readme"
+}
